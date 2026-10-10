@@ -13,6 +13,7 @@ __pycache__/
 .rooignore
 .roorules
 .roomodes
+.gitignore
 
 # 3. Виртуальные окружения
 .venv/
